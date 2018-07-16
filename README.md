@@ -1,6 +1,6 @@
-### Assignment Scope and Requirements 
+## Assignment Scope and Requirements 
 
-Using whichever open source software that you feel comfortable with (Python, R, etc.), please complete the following assignment. 
+### Using whichever open source software that you feel comfortable with (Python, R, etc.), please complete the following assignment. 
  
 1.	 Please complete a web scraping of at least 100 “data analyst” job posts. Postings may come from LinkedIn, Indeed and/or Monster. Please save your results and store them in a .csv file.  
 
